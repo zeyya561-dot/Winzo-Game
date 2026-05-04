@@ -363,7 +363,7 @@ Your brain creates narratives about what is happening. Choose useful stories ove
 
 ### Q1: Do I need to spend money to compete?
 
-No. Spending on [Winzo](https://winzoapp.net/) provides no competitive advantage. The paid economy is completely separate from the competitive layer. Free players can reach the top of any leaderboard.
+No. Spending on Winzo provides no competitive advantage. The paid economy is completely separate from the competitive layer. Free players can reach the top of any leaderboard.
 
 ### Q2: How long does it take to see improvement?
 
